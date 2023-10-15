@@ -1,0 +1,38 @@
+Camera ID - 0
+SENSOR_SENSITIVITY - 457
+CCT ID - 0
+CCT Name - System
+
+WB R:0.68066406 G:1 B:0.55859375
+WB Correction - false 
+WB ColorSpace - false
+WB Offset - 1
+WB Intensity - 1
+Coeff R:1 G:1 B:1
+Saturation Global:1 R:1 G:1 B:1 Y:1 C:1
+Hue Global:0 R:0 G:0 B:0 Y:0 C:0
+
+CT values changed - Yes
+
+
+1.000000
+0.000000
+0.000000
+0.000000
+1.000000
+0.000000
+0.000000
+0.000000
+1.000000
+
+Working CT
+1.609375
+-0.593750
+-0.023438
+-0.140625
+1.320312
+-0.187500
+-0.007812
+-0.656250
+1.671875
+

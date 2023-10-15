@@ -1,0 +1,70 @@
+Device:
+
+Device Info:
+MANUFACTURER:Xiaomi DEVICE:sweetin MODEL:M2101K6P BRAND:Xiaomi BOARD:sm6150 HARDWARE:qcom SDK_INT:33
+
+Device Interface:
+blueline
+
+HDR+ Model:
+blueline
+
+Shot Mode:
+--
+
+Device ID:
+--
+
+Camera ID:
+0
+
+Sensor ID:
+0
+
+Merge Method:
+0 (wiener filter)(0)
+
+Google Camera Logic:
+AUTO(0)
+
+FrameCount:
+--
+
+Expastro:
+--
+
+Stream OpMode:
+AUTO(0)
+
+Stream Session:
+0. Auto(0)
+
+Image Reader Format:
+AUTO(0)
+
+ExposureTimeMs:
+--
+
+AstroExposureTimeMs:
+--
+
+IsoTime:
+--
+
+HardwareLevel:
+LEVEL_3(3) => LEVEL_3(3)
+
+Preview:
+YUV_420_888(35)
+
+IsC2ALevel3:
+false
+
+Leica:
+true
+
+DCI-P3:
+false
+
+FocusDistance:
+3.4028235E38

@@ -1,0 +1,45 @@
+Camera ID  -  2
+
+ISO_RESULT (SENSOR_SENSITIVITY)  -  97
+ISO  -  0
+MaxAnalogSens  -  0.000000
+
+DigitalGain  -  0
+Noise Model ID -  0
+Noise Model Name -  
+
+Noise Model A 
+0
+0
+0
+0
+
+Noise Model B 
+0
+0
+0
+0
+
+Noise Model C 
+0
+0
+0
+0
+
+Noise Model D 
+0
+0
+0
+0
+
+Noise Model Scale 
+0
+0
+0
+0
+
+Noise Model Offset 
+0
+0
+0
+0

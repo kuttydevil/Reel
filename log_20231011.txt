@@ -1,0 +1,124 @@
+15:59:33 I initDevice 9.0
+15:59:33 D initDevice MANUFACTURER:Xiaomi DEVICE:sweetin MODEL:M2101K6P BRAND:Xiaomi BOARD:sm6150 HARDWARE:qcom SDK_INT:33
+15:59:33 E CameraId: 0 CameraRawSizes: [4640x3472]
+15:59:33 E CameraId: 1 CameraRawSizes: [2320x1744]
+15:59:33 E CameraId: 2 CameraRawSizes: [1600x1200]
+15:59:33 E CameraId: 3 CameraRawSizes: [2592x1944]
+15:59:33 E CameraId: 4 CameraRawSizes: [3280x2464]
+15:59:33 E CameraId: 5 CameraRawSizes: [4640x3472, 1600x1200]
+15:59:33 E CameraId: 6 CameraRawSizes: [4640x3472, 3280x2464]
+15:59:33 E CameraId: 7 CameraRawSizes: [4640x3472, 1600x1200]
+15:59:33 E CameraId: 8 CameraRawSizes: [2320x1744]
+15:59:33 E GetFilteredCameraIDs 0,2,3,1
+15:59:33 I Back  Main Lens Id 0
+15:59:33 I Front Main Lens Id 1
+15:59:33 W setAuxKey auxKey:0 => cameraId:0
+15:59:33 I AGC initMenuValue
+15:59:33 I AGC initInfoPage
+15:59:33 I Device Interface CameraID:0 0 => blueline => blueline
+15:59:33 I AGC experimentalKeys 0
+15:59:33 E getZslFrameCount 9
+15:59:33 E getZslFrameCount 12
+15:59:33 E getZslFrameCount 7
+15:59:33 E getZslFrameCount 20
+15:59:33 I loadLibrary gcastartup
+15:59:33 W load gcam library gcastartup
+15:59:33 I Default CameraIdList [0, 1]
+15:59:33 W getSwitchCameraList [0, 1]
+15:59:33 I App returns to the foreground
+15:59:36 W getViewfinderFormat 35
+15:59:36 D getStreamConfig sMode:0 key:pref_opmode_photo_key value:0
+15:59:36 D getStreamMode 0
+15:59:36 D Hardware Level: LEVEL_3(3) => LEVEL_3(3)
+15:59:36 W Focus-Tracking in Photo/Video mode false false
+15:59:36 I Device Interface CameraID:0 0 => blueline => blueline
+15:59:36 I HDR+ Model CameraID:0 blueline => blueline
+15:59:36 D WB_CALIB_GR_OVER_GB_RATIO 1.0029297
+15:59:36 I HDR+ Model CameraID:0 blueline => blueline
+15:59:36 D WB_CALIB_GR_OVER_GB_RATIO 1.0029297
+15:59:37 W Focus-Tracking in Photo/Video mode false false
+15:59:37 E setSMode PHOTO
+15:59:37 D getMaxZoom 10.0 10.0
+15:59:37 D getMaxZoom 10.0 10.0
+15:59:37 D getMaxZoom 10.0 10.0
+15:59:45 I App enter the background
+15:59:45 D getMaxZoom 10.0 10.0
+15:59:45 W getViewfinderFormat 35
+15:59:45 I App returns to the foreground
+15:59:45 D getStreamConfig sMode:0 key:pref_opmode_photo_key value:0
+15:59:45 D getStreamMode 0
+15:59:45 D Hardware Level: LEVEL_3(3) => LEVEL_3(3)
+15:59:45 W Focus-Tracking in Photo/Video mode false false
+15:59:50 W setAuxKey auxKey:1 => cameraId:2
+15:59:50 E CameraSwitchButton CameraID: 2 AuxKey: 1 isBackLens: true
+15:59:51 E onRestart sMode:  
+15:59:51 I initDevice 9.0
+15:59:51 D initDevice MANUFACTURER:Xiaomi DEVICE:sweetin MODEL:M2101K6P BRAND:Xiaomi BOARD:sm6150 HARDWARE:qcom SDK_INT:33
+15:59:51 E CameraId: 0 CameraRawSizes: [4640x3472]
+15:59:51 E CameraId: 1 CameraRawSizes: [2320x1744]
+15:59:51 E CameraId: 2 CameraRawSizes: [1600x1200]
+15:59:51 E CameraId: 3 CameraRawSizes: [2592x1944]
+15:59:51 E CameraId: 4 CameraRawSizes: [3280x2464]
+15:59:51 E CameraId: 5 CameraRawSizes: [4640x3472, 1600x1200]
+15:59:51 E CameraId: 6 CameraRawSizes: [4640x3472, 3280x2464]
+15:59:51 E CameraId: 7 CameraRawSizes: [4640x3472, 1600x1200]
+15:59:51 E CameraId: 8 CameraRawSizes: [2320x1744]
+15:59:51 E GetFilteredCameraIDs 0,2,3,1
+15:59:51 I Back  Main Lens Id 0
+15:59:51 I Front Main Lens Id 1
+15:59:51 I AGC initMenuValue
+15:59:51 I AGC initInfoPage
+15:59:51 I Device Interface CameraID:2 0 => blueline => blueline
+15:59:51 I AGC experimentalKeys 0
+15:59:51 E getZslFrameCount 9
+15:59:51 E getZslFrameCount 12
+15:59:51 E getZslFrameCount 7
+15:59:51 E getZslFrameCount 20
+15:59:51 I loadLibrary gcastartup
+15:59:51 W load gcam library gcastartup
+15:59:51 I Default CameraIdList [0, 1]
+15:59:52 W getSwitchCameraList [2, 1]
+15:59:52 W getViewfinderFormat 35
+15:59:52 W Focus-Tracking in Photo/Video mode false false
+15:59:52 D getStreamConfig sMode:0 key:pref_opmode_photo_key value:0
+15:59:52 D getStreamMode 0
+15:59:52 I App returns to the foreground
+15:59:52 D Hardware Level: LEVEL_3(3) => LEVEL_3(3)
+15:59:52 I Device Interface CameraID:2 0 => blueline => blueline
+15:59:52 I HDR+ Model CameraID:2 blueline => blueline
+15:59:52 D WB_CALIB_GR_OVER_GB_RATIO 1.0029297
+15:59:52 I HDR+ Model CameraID:2 blueline => blueline
+15:59:52 D WB_CALIB_GR_OVER_GB_RATIO 1.0029297
+15:59:52 W Focus-Tracking in Photo/Video mode false false
+15:59:52 E setSMode PHOTO
+15:59:52 D getMaxZoom 10.0 10.0
+15:59:52 D getMaxZoom 10.0 10.0
+15:59:52 D getMaxZoom 10.0 10.0
+16:00:01 I App enter the background
+16:00:01 D getMaxZoom 10.0 10.0
+16:00:01 I App returns to the foreground
+16:00:01 W getViewfinderFormat 35
+16:00:01 D getStreamConfig sMode:0 key:pref_opmode_photo_key value:0
+16:00:01 D getStreamMode 0
+16:00:01 D Hardware Level: LEVEL_3(3) => LEVEL_3(3)
+16:00:01 W Focus-Tracking in Photo/Video mode false false
+16:00:03 I App enter the background
+16:00:14 I App returns to the foreground
+16:00:15 W getViewfinderFormat 35
+16:00:15 D getStreamConfig sMode:0 key:pref_opmode_photo_key value:0
+16:00:15 D getStreamMode 0
+16:00:15 E setSMode PHOTO
+16:00:15 D Hardware Level: LEVEL_3(3) => LEVEL_3(3)
+16:00:15 D getMaxZoom 10.0 10.0
+16:00:15 D getMaxZoom 10.0 10.0
+16:00:15 D getMaxZoom 10.0 10.0
+16:00:15 W Focus-Tracking in Photo/Video mode false false
+16:00:27 I App enter the background
+16:00:27 D getMaxZoom 10.0 10.0
+16:00:27 I App returns to the foreground
+16:00:27 W getViewfinderFormat 35
+16:00:27 D getStreamConfig sMode:0 key:pref_opmode_photo_key value:0
+16:00:27 D getStreamMode 0
+16:00:27 D Hardware Level: LEVEL_3(3) => LEVEL_3(3)
+16:00:27 W Focus-Tracking in Photo/Video mode false false
+16:00:29 I App enter the background
